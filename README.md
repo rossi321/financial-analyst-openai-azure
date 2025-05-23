@@ -41,3 +41,6 @@ streamlit run app.py
 
 ## 🧠 Author
 Built by [Your Name] — connect on [LinkedIn](#)
+
+## 🧪 Notebooks
+- [Azure OpenAI Financial Demo](notebooks/Azure_OpenAI_Financial_Demo.ipynb) – Step-by-step Jupyter notebook version of the assistant logic
